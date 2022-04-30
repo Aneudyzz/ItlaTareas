@@ -1,0 +1,28 @@
+using System;
+
+namespace ConsoleApp3
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            
+
+            Console.WriteLine("Digite las siguientes informaciones para crear una historia: ");
+            
+            Console.WriteLine("Nombre de Nuestro protagonista: ");
+            string nomProta = Console.ReadLine();
+            Console.WriteLine("Digite el Nombre de Nuestro Antagonista: ");
+            string nomAntag = Console.ReadLine();
+            Console.WriteLine("Digite la Edad de las personas");
+            string Edad = Console.ReadLine();
+            Console.WriteLine("Digite la Carrera del Protagonista: ");
+            string protCarrera = Console.ReadLine();
+            Console.WriteLine("Digite la Carrera del Antagonista: ");
+            string antagCarrera = Console.ReadLine();
+            Console.WriteLine("La Siguiente historia relata sobre: " + nomProta + " y su compadre " + nomAntag +" quienes aunque estudiaban carreras diferentes eran amigos, " + nomProta + " estudiaba " + protCarrera + " mientras que su amigo " + nomAntag + " estudiaba " + antagCarrera + " resulta ser que aunque sus edads eran " + Edad + " años se llevaban bastante bien y prometieron seguir siendo amigos incluso despues de la universidad");
+            Console.WriteLine("Fin");
+
+        }
+    }
+}
