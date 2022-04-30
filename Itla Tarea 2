@@ -1,0 +1,36 @@
+using System;
+
+namespace ConsoleApp2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //TAREA: ITLA Sabados, Tarea numero 3
+            Console.WriteLine("Ingrese el valor de la base: ");
+            int base_ = int.Parse(Console.ReadLine()); 
+            Console.WriteLine("Ingrese el valor de la base2: ");
+            int base2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese el valor de la altura: ");
+            int altura = int.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese el valor del radio: ");
+            int radio = int.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese el valor de la diagonal mayor: ");
+            int diagonalMayor = int.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese el valor de la diagonal menor: ");
+            int diagonalMenor = int.Parse(Console.ReadLine());
+
+            int aTriangulo = (base_ * altura) / 2;
+            int aRectangulo = base_ * altura;
+            int aTrapecio = ((base_ + base2) * altura) / 2;
+            float aCirculo = 3.14f * (radio * radio);
+            int aRombo = (diagonalMayor * diagonalMenor) / 2;
+
+            Console.WriteLine("El area del triangulo es: " + aTriangulo);
+            Console.WriteLine("El area del rectangulo es: " + aRectangulo);
+            Console.WriteLine("El area del trapecio es: " + aTrapecio);
+            Console.WriteLine("El area del circulo es: " + aCirculo);
+            Console.WriteLine("El area del rombo es: " + aRombo);
+        }
+    }
+}
