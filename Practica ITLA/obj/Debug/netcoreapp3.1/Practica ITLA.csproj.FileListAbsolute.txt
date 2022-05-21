@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Programas Clase de sabados\Practica ITLA\bin\Debug\netcoreapp3.1\Practica ITLA.exe
+C:\Users\Admin\Desktop\Programas Clase de sabados\Practica ITLA\bin\Debug\netcoreapp3.1\Practica ITLA.deps.json
+C:\Users\Admin\Desktop\Programas Clase de sabados\Practica ITLA\bin\Debug\netcoreapp3.1\Practica ITLA.runtimeconfig.json
+C:\Users\Admin\Desktop\Programas Clase de sabados\Practica ITLA\bin\Debug\netcoreapp3.1\Practica ITLA.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Programas Clase de sabados\Practica ITLA\bin\Debug\netcoreapp3.1\Practica ITLA.dll
+C:\Users\Admin\Desktop\Programas Clase de sabados\Practica ITLA\bin\Debug\netcoreapp3.1\Practica ITLA.pdb
+C:\Users\Admin\Desktop\Programas Clase de sabados\Practica ITLA\obj\Debug\netcoreapp3.1\Practica ITLA.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Programas Clase de sabados\Practica ITLA\obj\Debug\netcoreapp3.1\Practica ITLA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programas Clase de sabados\Practica ITLA\obj\Debug\netcoreapp3.1\Practica ITLA.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programas Clase de sabados\Practica ITLA\obj\Debug\netcoreapp3.1\Practica ITLA.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programas Clase de sabados\Practica ITLA\obj\Debug\netcoreapp3.1\Practica ITLA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programas Clase de sabados\Practica ITLA\obj\Debug\netcoreapp3.1\Practica ITLA.dll
+C:\Users\Admin\Desktop\Programas Clase de sabados\Practica ITLA\obj\Debug\netcoreapp3.1\Practica ITLA.pdb
+C:\Users\Admin\Desktop\Programas Clase de sabados\Practica ITLA\obj\Debug\netcoreapp3.1\Practica ITLA.genruntimeconfig.cache
